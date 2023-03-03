@@ -1,0 +1,9 @@
+notas*.txt
+*.html
+.vscode
+bin
+include
+lib64
+lib
+.*cache
+*cfg
